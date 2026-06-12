@@ -1,0 +1,7 @@
+Analyze risks and blockers for:
+{{goal}}
+
+Return:
+1. Top risks
+2. Probability and impact
+3. Mitigations

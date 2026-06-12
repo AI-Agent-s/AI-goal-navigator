@@ -1,0 +1,7 @@
+Create milestones for:
+{{goal}}
+
+Return:
+1. Phases
+2. Weekly milestones
+3. Deliverables

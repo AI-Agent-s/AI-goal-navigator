@@ -1,0 +1,10 @@
+Analyze the goal.
+
+Goal:
+{{goal}}
+
+Extract:
+1. Goal type
+2. Required skills
+3. Expected timeline
+4. Constraints
